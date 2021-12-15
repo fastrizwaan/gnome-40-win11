@@ -22,3 +22,9 @@ or set using:
 ![](https://github.com/fastrizwaan/gnome-40-win11/raw/main/Screenshots/button.png)
 
 For Windows 11 wallpapers, [search google for Windows 11 wallpapers](https://www.google.com/search?q=Windows+11+Wallpaper+1.jpg&oq=Windows+11+Wallpaper+1.jpg&aqs=chrome..69i57j0i333l4.784j0j1&sourceid=chrome&ie=UTF-8)
+
+Gnome Shell Theme light blue colored: Win11 extract https://github.com/fastrizwaan/gnome-40-win11/raw/main/Win11-gnome-shell.tar.xz to ~
+open terminal and run
+```
+wget -c https://github.com/fastrizwaan/gnome-40-win11/raw/main/Win11-gnome-shell.tar.xz && tar -Jxvf Win11-gnome-shell.tar.xz -C ~
+```

@@ -3,6 +3,8 @@
 # gnome-40-win11
 Windows 11 appearance for Gnome using Dash-to-Panel, Arc-menu, and Date Menu Formatter
 
+![](https://github.com/fastrizwaan/gnome-40-win11/raw/main/Screenshots/1.png)
+
 To transform Gnome 40 to look like Windows 11, install these extensions and configuration file provided here.
 
 [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
